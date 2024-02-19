@@ -1,4 +1,4 @@
-package models
+package interfaces
 
 interface InomInterface {
     fun nextId(): Int
